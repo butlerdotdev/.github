@@ -95,7 +95,7 @@ Proactive drift remediation. Declares desired state, detects drift, auto-remedia
 
 ### Infrastructure Providers
 
-**Stable:** Harvester HCI | **Beta:** Nutanix AHV | **In Progress:** Proxmox VE, AWS, Azure, GCP
+**Stable:** Harvester HCI, Nutanix AHV | **In Progress:** Proxmox VE, AWS, Azure, GCP
 
 ### Get Involved
 
