@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/butlerdotdev/butler/main/assets/mascots/butler.png" alt="Butler" width="200"/>
+  <img src="https://raw.githubusercontent.com/butlerdotdev/.github/main/profile/assets/butler.png" alt="Butler" width="200"/>
 </p>
 
 <h1 align="center">Butler Labs</h1>
@@ -46,5 +46,5 @@ Harvester HCI (Stable) / Nutanix AHV (Beta) / Proxmox VE, AWS, Azure, GCP (In Pr
 - [Discord](https://discord.gg/cAzWG9qz3K)
 
 <p align="center">
-  <a href="https://butlerlabs.dev"><img src="https://raw.githubusercontent.com/butlerdotdev/butler/main/assets/logo/butlerlabs.png" alt="Butler Labs" width="150"/></a>
+  <a href="https://butlerlabs.dev"><img src="https://raw.githubusercontent.com/butlerdotdev/.github/main/profile/assets/bl.png" alt="Butler Labs" width="120"/></a>
 </p>
