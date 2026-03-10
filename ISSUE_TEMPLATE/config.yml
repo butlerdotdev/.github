@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a Question
+    url: https://github.com/butlerdotdev/butler/discussions
+    about: Use GitHub Discussions for questions, ideas, and general conversation.
+  - name: Security Vulnerability
+    url: https://github.com/butlerdotdev/butler/blob/main/SECURITY.md
+    about: Report security vulnerabilities privately. Do not open a public issue.
